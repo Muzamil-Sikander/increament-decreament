@@ -1,0 +1,23 @@
+*{
+ background-color:gray ;
+}
+
+.result{
+  text-align: center;
+  margin-top: 50px;
+  border: 2px solid black;
+  border-radius: 20px ;
+  width: 40px ;
+  margin-left: 650px;
+
+}
+
+.bttn{
+  margin-left: 400px;
+  margin-top: 70px;
+  
+}
+.bttn:hover{
+  background-color: rgb(185, 9, 9);
+  
+}

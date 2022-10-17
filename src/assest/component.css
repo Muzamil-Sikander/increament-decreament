@@ -1,0 +1,19 @@
+.nav-links {
+    display: flex;
+    justify-content: center;
+    padding-left: 30%;
+    background-color: rgb(73, 106, 167);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+}
+
+.nav-links p,
+button {
+    padding: 3%;
+
+}
+
+.btn {
+    
+}
